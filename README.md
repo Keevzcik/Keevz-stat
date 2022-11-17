@@ -18,5 +18,7 @@ Selam Sizlere Geliştirmiş Olduğum v13 Stat Botumun Görsellerini Paylaşmak �
 ![image](https://user-images.githubusercontent.com/118479147/202541580-bef950ef-4c4a-4189-93b4-d84a75753551.png)
 .senkronize Komudu
 ![image](https://user-images.githubusercontent.com/118479147/202541683-d1fdfe62-6584-4b1c-b2e7-c4acc08d0b25.png)
+Leaderboard Sistemi
+![image](https://user-images.githubusercontent.com/118479147/202542779-b39dea52-c6bd-42bf-b78f-07f486dcdf9c.png)
 Tüm Komutların Komut Listesi.
 ![image](https://user-images.githubusercontent.com/118479147/202541786-a4f89e89-5052-4f52-9eda-a542c447ae49.png)
